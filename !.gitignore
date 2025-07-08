@@ -1,0 +1,30 @@
+# Maven
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# IDEs e arquivos temporários
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+*.class
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos de ambiente e secrets
+.env
+*.log
+
+# Banco de dados persistente (se usar em produção/local)
+data/
+
+# Outros arquivos temporários e de build
+*.bak
+*.swp
+*.tmp
+
+# Arquivos de configurações pessoais
+*.local
